@@ -11,7 +11,12 @@ The effect is not too bad, lack of data is the biggest problem!
 ![](gifs/4.gif)  ![](gifs/8.gif)  
 ![](gifs/9.gif)  
 * #### retain original expressions. The concrete implementaion is different from the paper.  
-![](gifs/r.jpg)  
+![](gifs/r.jpg) 
+* #### different perspectives  
+![](gifs/mv_0_256.gif)  ![](gifs/mv_1_256.gif)  ![](gifs/mv_6_256.gif)  ![](gifs/mv_7_256.gif)  
+![](gifs/mv_2_256.gif)  ![](gifs/mv_3_256.gif)  ![](gifs/mv_4_256.gif)  ![](gifs/mv_5_256.gif)  
+  
+
 
 ## Citation   
  [paper_link](http://openaccess.thecvf.com/content_CVPR_2019/html/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.html)  
